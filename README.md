@@ -1,4 +1,4 @@
-<h1 align="center">nours_money aka NoursInDev</h1>
+<h1 align="center">Hi!</h1>
 <h3 align="center">A French computer science student at the IUT in Nantes</h3>
 
 - Currently working on **Advanced Moderation Bot for Discord (pv)**
