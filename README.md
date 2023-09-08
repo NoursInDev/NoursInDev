@@ -1,5 +1,5 @@
 <h1 align="center">Hi!</h1>
-<h3 align="center">A French computer science student at the IUT in Nantes</h3>
+<h3 align="center">I'm a French computer science student at the IUT in Nantes</h3>
 
 - Currently working on **Advanced Moderation Bot for Discord (pv)**
 
