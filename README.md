@@ -5,6 +5,8 @@
 
 - Paused the project [LocalGame BombParty](https://github.com/NoursInDev/Bomb-Party-LocalGame)
 
+- Currently working (hard) on go project [IUTimeManager](https://github.com/NoursInDev/iutimemanager). (click on the link to see advancement)
+
 <h3 align="left">Join me on discord</h3>
 <a href="https://discord.gg/https://discord.gg/3KcSjEWNx6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3KcSjEWNx6" height="30" width="40" /></a>
 </p>
