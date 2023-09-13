@@ -3,7 +3,7 @@
 
 - [📚]University Website >>> [Nantes Université](https://www.univ-nantes.fr)
 
-- [💻]Currently working on GOLANG project **Advanced Moderation Bot for Discord (pv)**
+- [💻]Currently working on JS project **Advanced Moderation Bot for Discord (pv)**
 
 - [💤]Paused the python3 project [LocalGame BombParty](https://github.com/NoursInDev/Bomb-Party-LocalGame)
 
