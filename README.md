@@ -9,6 +9,6 @@
 
 - [⭐] Currently working (hard) on GOLANG project [IUTimeManager](https://github.com/NoursInDev/iutimemanager). (click on the link to see advancement) 
 
-<h3 align="left">Meet me on discord</h3>
+<h4 align="left">Meet me on discord</h3>
 <a href="https://discord.gg/https://discord.gg/3KcSjEWNx6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/3KcSjEWNx6" height="30" width="40" /></a>
 </p>
