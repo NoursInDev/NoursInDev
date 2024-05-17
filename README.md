@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋 🥰 🥹</h1>
-<h3 align="center">I'm a 🇫🇷 IT student (BUT INFO) in Nantes</h3>
+<h3 align="center">I'm a 🇫🇷 IT student</h3>
 
 - [📚] My University : [Nantes Université](https://www.univ-nantes.fr)
 
