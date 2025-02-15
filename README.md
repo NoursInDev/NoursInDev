@@ -1,13 +1,8 @@
-<h1 align="center">Hi! 👋 🥰 🥹</h1>
-<h3 align="center">I'm a 🇫🇷 IT student</h3>
-
-- [📚] My University : [Nantes Université](https://www.univ-nantes.fr)
-
-●▬▬▬ஜ۩۞۩ஜ▬▬▬●
+●------------● Github Statistics ●------------●
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoursInDev&theme=dark&background=000000)](https://git.io/streak-stats) 
 
-●▬▬▬ஜ۩۞۩ஜ▬▬▬●
+●------------------● Links ●------------------●
 
 <footer>
 <a href="https://discord.gg/3KcSjEWNx6" target="blank"><img align="center" src="discord.svg" alt="https://discord.gg/3KcSjEWNx6" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
