@@ -3,8 +3,6 @@
 
 - [📚] My University : [Nantes Université](https://www.univ-nantes.fr)
 
-- [💻] My Main Project : [MafiaUHC](https://github.com/NoursInDev/mafiaUHC) { Kotlin - JVM8 - SPIGOT API }
-
 ●▬▬▬ஜ۩۞۩ஜ▬▬▬●
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NoursInDev&theme=dark&background=000000)](https://git.io/streak-stats) 
